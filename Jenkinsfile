@@ -10,11 +10,6 @@ pipeline {
     tools { nodejs 'node' }
 
     stages {
-        stage('Clone App'){
-            steps {
-                git 'https://github.com/krystyna-garwol/hello-world.git'
-            }
-        }
         stage('Build App') {
             steps {
                 sh '''
