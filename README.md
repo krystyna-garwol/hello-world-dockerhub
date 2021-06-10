@@ -5,6 +5,6 @@ This project was bootstrapped with Create React App, and it is literally just on
 
 <div style="text-align:center"><img width="1000" alt="jenkins pipeline" src="https://user-images.githubusercontent.com/72078274/121325779-ce6bec00-c909-11eb-98ac-f1f4e805c437.png"></div>
 
-<div style="text-align:center"><img width="1000" alt="docker hub hello world app respository" src="https://user-images.githubusercontent.com/72078274/121531427-4ca5bc80-c9f6-11eb-9b96-862ef4cd7e18.png"></div>
+<div style="text-align:center"><img width="1000" alt="docker hub respository" src="https://user-images.githubusercontent.com/72078274/121531785-a73f1880-c9f6-11eb-955d-18b7e5ed8ea4.png"></div>
 
 <img width="1777" alt="hello world app" src="https://user-images.githubusercontent.com/72078274/119966619-67624500-bfa3-11eb-8e41-6e3ced9f913c.png">
